@@ -1,4 +1,7 @@
 
+# About this Repo: 
+This repo was used to run the dotnet build, test and code coverage . 
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
